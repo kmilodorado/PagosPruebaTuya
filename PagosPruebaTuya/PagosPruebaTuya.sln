@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Api", "PagosPruebaTuya.Api\PagosPruebaTuya.Api.csproj", "{9B97DD1C-690B-4400-BB9E-77C01F86AA82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagosPruebaTuya.Api", "PagosPruebaTuya.Api\PagosPruebaTuya.Api.csproj", "{9B97DD1C-690B-4400-BB9E-77C01F86AA82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Data", "PagosPruebaTuya.Data\PagosPruebaTuya.Data.csproj", "{80953BF1-ACC5-407A-B2B6-5B4890D0422E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagosPruebaTuya.Data", "PagosPruebaTuya.Data\PagosPruebaTuya.Data.csproj", "{80953BF1-ACC5-407A-B2B6-5B4890D0422E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Common", "PagosPruebaTuya.Common\PagosPruebaTuya.Common.csproj", "{D143E8E4-94F5-4C53-84B4-A604339BE4CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagosPruebaTuya.Common", "PagosPruebaTuya.Common\PagosPruebaTuya.Common.csproj", "{D143E8E4-94F5-4C53-84B4-A604339BE4CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Dto", "PagosPruebaTuya.Dto\PagosPruebaTuya.Dto.csproj", "{9C6FC5F5-FC91-45FD-8F83-85C868BBB546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagosPruebaTuya.Dto", "PagosPruebaTuya.Dto\PagosPruebaTuya.Dto.csproj", "{9C6FC5F5-FC91-45FD-8F83-85C868BBB546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Business", "PagosPruebaTuya.Business\PagosPruebaTuya.Business.csproj", "{2CEAB4DD-B34C-4F54-83D7-DF417CD425D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagosPruebaTuya.Business", "PagosPruebaTuya.Business\PagosPruebaTuya.Business.csproj", "{2CEAB4DD-B34C-4F54-83D7-DF417CD425D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosPruebaTuya.Test", "PagosPruebaTuya.Test\PagosPruebaTuya.Test.csproj", "{DE5AFF93-8561-4CD5-B59E-688898D45CA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2CEAB4DD-B34C-4F54-83D7-DF417CD425D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CEAB4DD-B34C-4F54-83D7-DF417CD425D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CEAB4DD-B34C-4F54-83D7-DF417CD425D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5AFF93-8561-4CD5-B59E-688898D45CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5AFF93-8561-4CD5-B59E-688898D45CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5AFF93-8561-4CD5-B59E-688898D45CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5AFF93-8561-4CD5-B59E-688898D45CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

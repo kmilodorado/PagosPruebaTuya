@@ -10,3 +10,15 @@ C:\repos\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dt
 C:\repos\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\ref\PagosPruebaTuya.Dto.dll
 C:\repos\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.pdb
 C:\repos\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.csproj.AssemblyReference.cache
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\bin\Debug\net6.0\PagosPruebaTuya.Dto.deps.json
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\bin\Debug\net6.0\PagosPruebaTuya.Dto.dll
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\bin\Debug\net6.0\ref\PagosPruebaTuya.Dto.dll
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\bin\Debug\net6.0\PagosPruebaTuya.Dto.pdb
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.csproj.AssemblyReference.cache
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.AssemblyInfoInputs.cache
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.AssemblyInfo.cs
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.csproj.CoreCompileInputs.cache
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.dll
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\ref\PagosPruebaTuya.Dto.dll
+C:\repos\GitHub\PagosPruebaTuya\PagosPruebaTuya\PagosPruebaTuya.Dto\obj\Debug\net6.0\PagosPruebaTuya.Dto.pdb

@@ -1,0 +1,49 @@
+﻿{
+  "User": [
+    {
+      "userName": "CristianB",
+      "email": "kmilodorado@gmail.com",
+      "pass": "1234",
+      "Address": [
+        {
+          "country": "CO",
+          "city": 180001,
+          "quarter": "Pablo VI",
+          "streetType": 3,
+          "street": "12A",
+          "numberExt": "03",
+          "numberInt": "28",
+          "state": true
+        }
+      ]
+    }
+  ],
+  "Product": [
+    {
+      "name": "Xiaomi Pocophone Poco M3 Pro",
+      "description": "5g Dual Sim 128 Gb Azul 6gb Ram",
+      "price": 799900
+    },
+    {
+      "name": "Celular Apple iPhone 13",
+      "description": "28gb 4gb A15 Bionic Cámara 12mpx",
+      "price": 4039000
+    },
+    {
+      "name": "Pocophone Poco X4 Pro",
+      "description": "g Dual Sim/128gb 6gb Ram + Watch S1",
+      "price": 1189900
+    },
+    {
+      "name": "Samsung Galaxy Z Flip3",
+      "description": "5G 256 GB phantom black 8 GB RAM",
+      "price": 4079900
+    }
+  ],
+  "PaymentMethod": [
+    { "name": "Tarjeta de credito" },
+    { "name": "Tarjeta de debito" },
+    { "name": "Pago por PSE" },
+    { "name": "Pago en efectivo" }
+  ]
+}

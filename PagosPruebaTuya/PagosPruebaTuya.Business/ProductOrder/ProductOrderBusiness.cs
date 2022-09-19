@@ -36,7 +36,7 @@ namespace PagosPruebaTuya.Business.ProductOrder
         public async Task<HttpResponseDto<ProductOrderResponseDto>> PagarOrden(PagarOrdenRequestDto pagarOrdenRequestDto)
         {
             UserAddressDto? userAddressDto = await ValidateUser(pagarOrdenRequestDto.userId.ToString());
-            Guid id= await FacturarOrden(pagarOrdenRequestDto.codeProducto, userAddressDto.userName, pagarOrdenRequestDto.paymentMethod);
+            Guid id= await FacturarOrden(pagarOrdenRequestDto.codeOrden, userAddressDto.userName, pagarOrdenRequestDto.paymentMethod);
             ProductOrderResponseDto productOrderResponseDto = await GetOrdenProduct(userAddressDto, id);
             return await ReturnObjectResponse<ProductOrderResponseDto>(productOrderResponseDto, Variables.Message.SUCCESS_MSG, HttpStatusCode.OK);
         }

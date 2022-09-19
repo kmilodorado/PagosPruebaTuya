@@ -1,0 +1,131 @@
+{
+  "dataTestResponseDto": {
+    "codigo": 200,
+    "descripcion": "Proceso exitoso.",
+    "objeto": null
+  },
+  "httpResponseDtoListProductOrderResponseDto": {
+    "codigo": 200,
+    "descripcion": "Proceso exitoso.",
+    "objeto": [
+      {
+        "codeOrden": "4a0d68e1-280b-48df-ae76-00361018da91",
+        "paymentMethod": null,
+        "stateOrden": 0,
+        "stateOrdenName": "En proceso",
+        "userName": {
+          "codeUser": "f83d79f4-429e-4c99-b930-9a6f2b6917c6",
+          "userName": "CristianB",
+          "email": "kmilodorado@gmail.com"
+        },
+        "address": {
+          "country": "CO",
+          "city": 180001,
+          "quarter": "Pablo VI",
+          "streetType": 3,
+          "street": "12A",
+          "numberExt": "03",
+          "numberInt": 28
+        },
+        "detailOrders": [
+          {
+            "no": 1,
+            "codeProduct": "cc4b14f5-a7f8-469c-b966-b8e548136ec1",
+            "nameProduct": "Xiaomi Pocophone Poco M3 Pro",
+            "descriptionProduct": "5g Dual Sim 128 Gb Azul 6gb Ram",
+            "quantity": 3,
+            "price": 799900
+          },
+          {
+            "no": 2,
+            "codeProduct": "b6e9ab0b-4477-414e-90ed-bbdf968c753b",
+            "nameProduct": "Samsung Galaxy Z Flip3",
+            "descriptionProduct": "5G 256 GB phantom black 8 GB RAM",
+            "quantity": 1,
+            "price": 4079900
+          },
+          {
+            "no": 3,
+            "codeProduct": "79ae5468-5b66-431e-af5c-cd6b1b5d9027",
+            "nameProduct": "Pocophone Poco X4 Pro",
+            "descriptionProduct": "g Dual Sim/128gb 6gb Ram + Watch S1",
+            "quantity": 2,
+            "price": 1189900
+          }
+        ]
+      }
+    ]
+  },
+  "httpResponseDtoProductOrderResponseDto": {
+    "codigo": 200,
+    "descripcion": "Proceso exitoso.",
+    "objeto": {
+      "codeOrden": "0724941c-f33e-4ac8-ac81-240298c6ac60",
+      "paymentMethod": null,
+      "stateOrden": 0,
+      "stateOrdenName": "En proceso",
+      "userName": {
+        "codeUser": "f83d79f4-429e-4c99-b930-9a6f2b6917c6",
+        "userName": "CristianB",
+        "email": "kmilodorado@gmail.com"
+      },
+      "address": {
+        "country": "CO",
+        "city": 180001,
+        "quarter": "Pablo VI",
+        "streetType": 3,
+        "street": "12A",
+        "numberExt": "03",
+        "numberInt": 28
+      },
+      "detailOrders": [
+        {
+          "no": 1,
+          "codeProduct": "cc4b14f5-a7f8-469c-b966-b8e548136ec1",
+          "nameProduct": "Xiaomi Pocophone Poco M3 Pro",
+          "descriptionProduct": "5g Dual Sim 128 Gb Azul 6gb Ram",
+          "quantity": 3,
+          "price": 799900
+        },
+        {
+          "no": 2,
+          "codeProduct": "b6e9ab0b-4477-414e-90ed-bbdf968c753b",
+          "nameProduct": "Samsung Galaxy Z Flip3",
+          "descriptionProduct": "5G 256 GB phantom black 8 GB RAM",
+          "quantity": 1,
+          "price": 4079900
+        },
+        {
+          "no": 3,
+          "codeProduct": "79ae5468-5b66-431e-af5c-cd6b1b5d9027",
+          "nameProduct": "Pocophone Poco X4 Pro",
+          "descriptionProduct": "g Dual Sim/128gb 6gb Ram + Watch S1",
+          "quantity": 2,
+          "price": 1189900
+        }
+      ]
+    }
+  },
+  "productOrderRequestDto": {
+    "userId": "f83d79f4-429e-4c99-b930-9a6f2b6917c6",
+    "products": [
+      {
+        "productId": "cc4b14f5-a7f8-469c-b966-b8e548136ec1",
+        "quantity": 3
+      },
+      {
+        "productId": "b6e9ab0b-4477-414e-90ed-bbdf968c753b",
+        "quantity": 1
+      },
+      {
+        "productId": "79ae5468-5b66-431e-af5c-cd6b1b5d9027",
+        "quantity": 2
+      }
+    ]
+  },
+  "pagarOrdenRequestDto": {
+      "userId": "f83d79f4-429e-4c99-b930-9a6f2b6917c6",
+      "codeOrden": "c008fbaf-5679-43db-88b9-9b2f4c9152d4",
+      "paymentMethod": 5
+  }
+}
