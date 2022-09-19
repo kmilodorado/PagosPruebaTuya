@@ -1,0 +1,17 @@
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.csproj.AssemblyReference.cache
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.AssemblyInfoInputs.cache
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.AssemblyInfo.cs
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.csproj.CoreCompileInputs.cache
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Data.deps.json
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Data.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\ref\PagosPruebaTuya.Data.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Data.pdb
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Common.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Dto.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Common.pdb
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\bin\Debug\net6.0\PagosPruebaTuya.Dto.pdb
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.csproj.CopyComplete
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\ref\PagosPruebaTuya.Data.dll
+C:\repos\PagosPruebaTuya\PagosPruebaTuya.Data\obj\Debug\net6.0\PagosPruebaTuya.Data.pdb

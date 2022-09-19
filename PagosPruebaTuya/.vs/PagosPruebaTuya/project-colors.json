@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b97dd1c-690b-4400-bb9e-77c01f86aa82": {
+      "ProjectGuid": "9b97dd1c-690b-4400-bb9e-77c01f86aa82",
+      "DisplayName": "PagosPruebaTuya.Api",
+      "ColorIndex": 0
+    },
+    "80953bf1-acc5-407a-b2b6-5b4890d0422e": {
+      "ProjectGuid": "80953bf1-acc5-407a-b2b6-5b4890d0422e",
+      "DisplayName": "PagosPruebaTuya.Data",
+      "ColorIndex": 1
+    },
+    "d143e8e4-94f5-4c53-84b4-a604339be4cd": {
+      "ProjectGuid": "d143e8e4-94f5-4c53-84b4-a604339be4cd",
+      "DisplayName": "PagosPruebaTuya.Common",
+      "ColorIndex": 2
+    },
+    "9c6fc5f5-fc91-45fd-8f83-85c868bbb546": {
+      "ProjectGuid": "9c6fc5f5-fc91-45fd-8f83-85c868bbb546",
+      "DisplayName": "PagosPruebaTuya.Dto",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "2ceab4dd-b34c-4f54-83d7-df417cd425d6": {
+      "ProjectGuid": "2ceab4dd-b34c-4f54-83d7-df417cd425d6",
+      "DisplayName": "PagosPruebaTuya.Business",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

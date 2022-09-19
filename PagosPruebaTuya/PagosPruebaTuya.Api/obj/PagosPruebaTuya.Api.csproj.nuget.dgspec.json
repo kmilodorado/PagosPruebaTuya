@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Api\\PagosPruebaTuya.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Api\\PagosPruebaTuya.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Api\\PagosPruebaTuya.Api.csproj",
+        "projectName": "PagosPruebaTuya.Api",
+        "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Api\\PagosPruebaTuya.Api.csproj",
+        "packagesPath": "C:\\Users\\Dorado\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\PagosPruebaTuya.Business.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\PagosPruebaTuya.Business.csproj"
+              },
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\PagosPruebaTuya.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\PagosPruebaTuya.Business.csproj",
+        "projectName": "PagosPruebaTuya.Business",
+        "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\PagosPruebaTuya.Business.csproj",
+        "packagesPath": "C:\\Users\\Dorado\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj"
+              },
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj"
+              },
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj",
+        "projectName": "PagosPruebaTuya.Common",
+        "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj",
+        "packagesPath": "C:\\Users\\Dorado\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj",
+        "projectName": "PagosPruebaTuya.Data",
+        "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\PagosPruebaTuya.Data.csproj",
+        "packagesPath": "C:\\Users\\Dorado\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Common\\PagosPruebaTuya.Common.csproj"
+              },
+              "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj": {
+                "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj",
+        "projectName": "PagosPruebaTuya.Dto",
+        "projectPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\PagosPruebaTuya.Dto.csproj",
+        "packagesPath": "C:\\Users\\Dorado\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\GitHub\\PagosPruebaTuya\\PagosPruebaTuya\\PagosPruebaTuya.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
